@@ -1,3 +1,0 @@
-hi
-this is
-kishore first git integration with jenkins.
